@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebAdvert.Web/obj
+/.vs
+/WebAdvert.Web/.vs/WebAdvert.Web
+/WebAdvert.Web/bin/Debug/netcoreapp3.1
